@@ -1,0 +1,16 @@
+include *.txt
+include *.ini
+include *.cfg
+#include *.rst
+#recursive-include excellent *.ico
+#recursive-include excellent *.png
+#recursive-include excellent *.css
+#recursive-include excellent *.gif
+#recursive-include excellent *.jpg
+#recursive-include excellent *.pt
+#recursive-include excellent *.txt
+#recursive-include excellent *.mak
+#recursive-include excellent *.mako
+#recursive-include excellent *.js
+#recursive-include excellent *.html
+#recursive-include excellent *.xml
